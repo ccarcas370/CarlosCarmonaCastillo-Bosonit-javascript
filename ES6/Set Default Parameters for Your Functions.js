@@ -1,0 +1,15 @@
+//Set Default Parameters for Your Functions
+
+/*Codigo original
+// Only change code below this line
+const increment = (number, value) => number + value;
+// Only change code above this line
+*/
+
+//Codigo bueno
+// Only change code below this line
+const increment = (number, value = 1) => number + value;
+// Only change code above this line
+
+console.log(increment(5, 2));
+console.log(increment(5));

@@ -1,0 +1,1 @@
+Ejercicios propuestos en la tarjeta de Trello son los 9 primeros ordenados por fecha descendiente el resto los he realizado para practicar y afianzar conocimientos.

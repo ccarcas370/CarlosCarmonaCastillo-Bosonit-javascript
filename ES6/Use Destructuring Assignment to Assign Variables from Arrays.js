@@ -1,0 +1,14 @@
+//Use Destructuring Assignment to Assign Variables from Arrays
+
+/*Codigo original
+let a = 8, b = 6;
+// Only change code below this line
+*/
+
+//Codigo bueno
+let a = 8, b = 6;
+// Only change code below this line
+[a, b] = [b, a];
+
+console.log(a);
+console.log(b);
